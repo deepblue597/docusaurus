@@ -1,13 +1,9 @@
 ---
-slug: first-blog-post-ops
-title: First Blog Post OPS
-authors:
-  name: Iasonas Kakandris
-  title: Spacecraft Operations member
-  url: https://github.com/deepblue597
-  image_url: https://github.com/deepblue597.png
+slug: few-initial-words
+title: First few words from the team
+authors: jasonkak
 
-tags: [test, ops]
+tags: [greetings, ops]
 ---
 
 Hello!
